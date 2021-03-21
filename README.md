@@ -1,7 +1,23 @@
-### Hi there 👋
+# README.md
+# You can see, so you know me. 👋 <br>
+### So I will tell you some things you might not know. <br>
+#### 🔭 I’m currently working on home codeing <br>
+  -css <br>
+  -html <br>
+  -javascript basic <br>
+#### 🌱 I’m currently learning all code <br>
+In order to be good at everything <br>
+I really like about these things. And I will not stop studying :running: <br>
+I will do everything for myself to one point. The rest of the life will be used to help others. <br>
+#### Ask anything (if me know the answer) Contact me via <br>
+http://github.com - automatic!
+[GitHub](http://github.com) I'm kidding :grin: <br>
+[Facebook](https://web.facebook.com/profile.php?id=100005146331016) <br> 
+line@ num8853<br>
+E-mail wichanannam@mail.com <br>
 
 <!--
-**wizwingwing/wizwingwing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ThechoiceMaster/ThechoiceMaster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
