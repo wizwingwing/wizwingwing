@@ -10,8 +10,8 @@ In order to be good at everything <br>
 I really like about these things. And I will not stop studying :running: <br>
 I will do everything for myself to one point. The rest of the life will be used to help others. <br>
 #### Ask anything (if me know the answer) Contact me via <br>
-http://github.com - automatic!
-[GitHub](http://github.com) I'm kidding :grin: <br>
+https://github.com/wizwingwing?tab=repositories - automatic!
+[GitHub](https://github.com/wizwingwing?tab=repositories) I'm kidding :grin: <br>
 [Facebook](https://web.facebook.com/profile.php?id=100005146331016) <br> 
 line@ num8853<br>
 E-mail wichanannam@mail.com <br>
