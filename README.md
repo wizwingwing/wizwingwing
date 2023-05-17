@@ -4,7 +4,12 @@
 #### 🔭 I’m currently working on home codeing <br>
   -css <br>
   -html <br>
-  -javascript basic <br>
+  -javascript <br>
+  -react <br>
+  -node <br>
+  -type script <br>
+  -php <br>
+  -wordpress <br>
 #### 🌱 I’m currently learning all code <br>
 In order to be good at everything <br>
 I really like about these things. And I will not stop studying :running: <br>
